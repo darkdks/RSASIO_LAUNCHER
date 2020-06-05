@@ -6,7 +6,7 @@ Just few lines of code.
 
 # how to use
 
-- Download [RSASIO_LAUNCHER.zip](https://github.com/darkdks/RSASIO_LAUNCHER/blob/master/Win32/Release/RSASIO_Launcher.zip) and extract it to Rocksmith2014 game folder
+- Download [RSASIO_LAUNCHER.zip](https://github.com/darkdks/RSASIO_LAUNCHER/releases/tag/1) and extract it to Rocksmith2014 game folder
 - Edit the RSASIO_Launcher.ini file and specify in "DRIVERNAME =" the name of your interface used in RS_ASIO
 - If the interface to be enabled and disabled is [Asio.Input.1], keep as is(INPUTSWAP=[Asio.Input.1]), otherwise edit the entry
 - Just launch RSASIO_LAUNCHER.exe to open in single or multiplayer, you can make a shortcut in your desktop or replace the existing one (that is what i did for me)
