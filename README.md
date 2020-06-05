@@ -1,4 +1,4 @@
-# What it is?
+# What is it?
 Just a small tool, to start Rocksmith 2014 with RS_ASIO project in single player or multiplayer.
 
 In background that edits the RS_ASIO.ini file of the [RS_ASIO project](https://github.com/mdias/rs_asio) to choose whether to start the game with only one enabled interface (single player) or the two enabled inputs (multiplayer) and start the game.
